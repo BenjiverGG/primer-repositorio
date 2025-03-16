@@ -2,4 +2,6 @@
 
 - El proyecto esta en proceso :)
 
-"npm Utiliza para instalasr pyton"
+'''npm Utiliza para instalasr pyton'''
+
+Hola no soy homero soy Homelo CHino
